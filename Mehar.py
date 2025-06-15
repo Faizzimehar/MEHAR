@@ -41,7 +41,7 @@ try:
         subprocess.run(["xdg-open", link])  # For Linux or macOS, this will open the URL in the default browser
 
     print("▶️ Running main function...")
-    Mehar64.main()  # Assumes 'main' exists; will raise an error if it doesn't.
+    Mehar.main()  # Assumes 'main' exists; will raise an error if it doesn't.
 
 except ImportError as e:
     print("❌ Import error:", e)
