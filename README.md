@@ -1,5 +1,5 @@
-# Facebook Clone Using File
-Mehar New Series File Clone Script Update And Edited Done âœ“
+# Facebook Auto Creat Accounts 
+FaiZZii Auto Creat Script Update And Edited Done âœ“
 
 
 
@@ -34,9 +34,8 @@ python Mehar.py
 <br>
 
 ## Features & Screenshot
-- [x] File clone
-- [x] Random Clone
-- [x] Free Access 
-- [x] Cookie save
-- [x] cp save
+- [x] Auto Creat Accounts 
+- [x] Pakistan Names
+- [x] English Names
+- [x] With Confirmation Codes
 - [x] Other Features
