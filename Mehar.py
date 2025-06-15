@@ -1,6 +1,6 @@
 import os
 import subprocess
-import Mehar64
+import Mehar
 import time
 import sys
 from itertools import cycle
@@ -47,4 +47,4 @@ except ImportError as e:
     print("❌ Import error:", e)
 
 except AttributeError:
-    print("⚠️ 'main' function not found. Check available attributes:", dir(Mehar64))
+    print("⚠️ 'main' function not found. Check available attributes:", dir(Mehar))
